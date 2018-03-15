@@ -20,3 +20,4 @@ while True :
     udp_sock.sendto(data.encode('ascii'), client_addr)
 
     #jadi gini doang
+    #kalo gini
