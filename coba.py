@@ -19,4 +19,4 @@ while True :
     # Kirim data ke client dengan alamat pada variabel client_addr
     udp_sock.sendto(data.encode('ascii'), client_addr)
 
-
+    #lagi lagi
